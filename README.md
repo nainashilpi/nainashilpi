@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Currently pursuing B.Tech in Information Technology at UIT RGPV Bhopal. (M.P)<br><br>- 🔭 I’m working as a curious learner   and future software engineer, <br>      exploring real-world projects.<br><br>- ⚡ In my free time I love creating aesthetic designs, vibing to music, scrolling through celeb fashion inspo, and dreaming of my next coffee date in Dubai ☕<br><br>💜 Let's connect and create something amazing together!</p>
+<p align="left">Currently pursuing B.Tech in Information Technology at UIT RGPV Bhopal. (M.P)<br><br>- 🔭 I’m working as a curious learner   and future software engineer, <br>      exploring real-world projects.<br><br>- ⚡ In my free time I love creating aesthetic designs, vibing to music<br><br>💜 Let's connect and create something amazing together!</p>
 
 ###
 
