@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">✨ Hey there! I'm <span style="color:#9B59B6;">Nainaa Yadav</span> 👩‍💻</h1>
+<h1 align="center">✨ Hey there! I'm <span style="color:#9B59B6;">Naina Shilpi</span> 👩‍💻</h1>
 
 <h3 align="center">A creative coder, dreamer, and tech enthusiast from India 💜</h3>
 
