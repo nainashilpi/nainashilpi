@@ -1,33 +1,34 @@
-<h1 align="center">Hi 👋, I'm Naina Shilpi</h1>
-<h3 align="center">Aspiring Software Engineer | MERN Developer | Problem Solver</h3>
+# Hi, I'm Naina Shilpi 👋 
+
+**Full Stack Developer | MERN Specialist | Competitive Programmer**
+
+I am a results-driven Software Developer focused on building scalable web applications and optimizing algorithmic performance. I love turning complex problems into elegant, user-centric solutions. Currently, I'm deep-diving into system architecture and enhancing my full-stack expertise.
 
 ---
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,vscode" />
-</p>
+### 🚀 What I Do
+- **Full Stack Development:** Crafting seamless user experiences with the MERN stack.
+- **Problem Solving:** 500+ problems solved across LeetCode, GFG & CodeChef.
+- **Performance Optimization:** Building apps like **AlgoPulse** with real-time API integrations.
 
 ---
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nainashilpi&show_icons=true&theme=tokyonight" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nainashilpi&theme=tokyonight" height="140"/>
-</p>
+### 🛠️ My Tech Toolbox
+
+**Frontend & Design**
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react&perline=6" />
+
+**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
+
+**Languages & Tools**
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,vscode,postman,render&perline=7" />
 
 ---
 
-### 🌐 Profiles
-<p align="center">
-  <a href="https://leetcode.com/u/miss_naina18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/naina_shilpi"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
-</p>
-
----
-
-### 📫 Connect
-<p align="center">
-  <a href="mailto:nainashilpi24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nainashilpi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+### 🤝 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/nainashilpi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nainashilpi24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/miss_naina18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
